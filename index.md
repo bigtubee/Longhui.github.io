@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kevin Keomanee-Dizon
+title: Home
 order: 1
 ---
 
