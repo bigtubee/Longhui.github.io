@@ -6,12 +6,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Andreas Mayer
-tagline:          'theoretical biophysicist'
-description:      'Lewis-Sigler Theory Fellow at Princeton University'
-url:              http://andim.github.io/
+title:            Kevin Keomanee-Dizon
+tagline:          'experimental biophysicist'
+description:      'Alfred E. Mann Doctoral Fellow at the University of Southern California'
+url:              http://kdizon.github.io/
 
 author:
-  name:           'Andreas Mayer'
-  url:            https://twitter.com/andimscience
-
+  name:           'Kevin Keomanee-Dizon'
+  url:            https://twitter.com/kevinkeomanee
