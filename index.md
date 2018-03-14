@@ -27,6 +27,3 @@ A Carlsson, P Kuhn, M Luttgen, K Keomanee-Dizon, P Troncoso, P Corn, A Kolatkar,
 H Zhan, R Stanciauskas, C Stigloher, K Keomanee-Dizon, M Jospin, JL Bessereau, and F Pinaud<br/>
 ***Nature Communications*** **5**, 4974 (2014).  [doi](https://www.nature.com/articles/ncomms5974)<br/>
 *Nature Method's* [Methods in Brief](https://www.nature.com/articles/nmeth.3154) and Biophotonics [Research Highlight](https://www.photonics.com/a56693/Fluorescence_Technique_Probes_Muscular_Dystrophy).
-
-
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
