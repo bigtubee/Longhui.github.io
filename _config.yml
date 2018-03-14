@@ -1,1 +1,17 @@
-theme: jekyll-theme-slate
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Andreas Mayer
+tagline:          'theoretical biophysicist'
+description:      'Lewis-Sigler Theory Fellow at Princeton University'
+url:              http://andim.github.io/
+
+author:
+  name:           'Andreas Mayer'
+  url:            https://twitter.com/andimscience
+
