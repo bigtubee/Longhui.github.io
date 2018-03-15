@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and Presentations
+title: Papers and Presentations
 order: 2
 ---
 
