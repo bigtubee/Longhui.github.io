@@ -28,15 +28,15 @@ H Zhan, R Stanciauskas, C Stigloher, K Keomanee-Dizon, M Jospin, JL Bessereau, a
 
 ## Conference and Seminar Presentations
 
-***USC Biophysics Symposium***. Los Angeles, CA. Oct 2017<br/>
+**USC Biophysics Symposium**. Los Angeles, CA. Oct 2017<br/>
 poster title: Light-sheet and light-field microscopy platform for structural and functional neural imaging
 
-***EMBO | EMBL Symposium: Seeing is Believing - Imaging the Processes of Life***. Heidelberg, Germany.
+**EMBO | EMBL Symposium: Seeing is Believing - Imaging the Processes of Life**. Heidelberg, Germany.
 Oct 2017<br/>
 poster title: Light-sheet and light-field microscopy platform for structural and functional neural imaging
 
-***21st Annual Fred S. Grodins Graduate Research Symposium***. Los Angeles, CA. Apr 2017
+**21st Annual Fred S. Grodins Graduate Research Symposium**. Los Angeles, CA. Apr 2017
 
-***Convergent Science Initiative in Cancer***. Scripps Research Institute. La Jolla, CA. Apr 2016
+**Convergent Science Initiative in Cancer**. Scripps Research Institute. La Jolla, CA. Apr 2016
 
-***USC Molecular and Computational Biology Retreat***. Lake Arrowhead, CA. Oct 2015
+**USC Molecular and Computational Biology Retreat**. Lake Arrowhead, CA. Oct 2015
