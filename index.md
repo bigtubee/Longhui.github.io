@@ -12,4 +12,4 @@ I received a BS from [Loyola Marymount University](http://lmu.edu/) in 2012, wor
 
 ## Research Interests
 
-I'm broadly interested in optical and biological physics. Much of my work has focused on quantitative bioimaging and lately I've been building light-sheet and light-field microscopes to image biological phenomena at a wide range of scales, from the dynamics of individual bacterial cells to memory/learning in the brain of small animals. In the past, I did research in single-molecule biophysics and super-resolution  microscopy.
+I'm broadly interested in optical and biological physics. Much of my work has focused on quantitative bioimaging and lately I've been building light-sheet and light-field microscopes to image biological phenomena at a wide range of scales, from the dynamics of individual bacterial cells to memory/learning in the brain of small animals. In the past, I did research in single-molecule biophysics and super-resolved fluorescence microscopy.
