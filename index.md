@@ -8,7 +8,7 @@ order: 1
 
 I'm a PhD student at the University of Southern California [Translational Imaging Center](http://bioimaging.usc.edu). I am advised by [Scott E. Fraser](http://bioimaging.usc.edu/sefraser.html), collaborate closely with [Thai V. Truong](https://www.researchgate.net/profile/Thai_Truong), and am funded by the [Alfred E. Mann Doctoral Fellowship](http://ami.usc.edu/ami-fellowships/).
 
-I received a BS from [Loyola Marymount University](http://lmu.edu/) in 2012, and a MS from the [University of Southern California](http://usc.edu/) in 2015. I've also spent time at [Unbound Consulting](http://unbound-consulting.com/) as a validation engineer (2012-14).
+I received a BS from [Loyola Marymount University](http://lmu.edu/) in 2012, worked as a validation engineer at [Unbound Consulting](http://unbound-consulting.com/) from 2012-14, and earned a MS from the [University of Southern California](http://usc.edu/) in 2015.
 
 ## Research Interests
 
