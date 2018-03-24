@@ -14,3 +14,7 @@ url:              https://kdizon.github.io/
 author:
   name:           'Kevin Keomanee-Dizon'
   url:            https://twitter.com/kevinkeomanee
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
