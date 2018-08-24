@@ -12,10 +12,10 @@ I received a BS from [Loyola Marymount University](http://lmu.edu/) in 2012, wor
 
 ## News
 
-* I attended the [International Summer School on Adaptive Optics](http://cfao.ucolick.org/aosummer/2018/index.html) at the [UC Santa Cruz Center for Adaptive Optics](http://cfao.ucolick.org/) (July-August 2018)
+* I attended the [International Adaptive Optics Summer School](http://cfao.ucolick.org/aosummer/2018/index.html) at the [UC Santa Cruz Center for Adaptive Optics](http://cfao.ucolick.org/) (July-August 2018)
 
 ## Research
 
 I develop new optical tools with an eye toward understanding physical principles that govern biological function. Much of my work has focused on quantitative  imaging and lately I've been building light-sheet and light-field microscopes to image biological phenomena at a wide range of scales, from the dynamics of individual bacterial cells to memory/learning in the brains of animals. In the past, I did research in single-molecule biophysics and super-resolution microscopy.
 
-![SPIM]({{ site.url }}/public/IMG_5337.jpg)
+![SPIM]({{ site.url }}/public/IMG_5337.jpg.icloud)
