@@ -16,6 +16,11 @@ H Zhan, R Stanciauskas, C Stigloher, K Keomanee-Dizon, M Jospin, JL Bessereau, a
 ***Nature Communications*** **5**, 4974 (2014).  doi: [10.1038/ncomms5974](https://www.nature.com/articles/ncomms5974)<br/>
 *Nature Method's* [Methods in Brief](https://www.nature.com/articles/nmeth.3154) and *Biophotonics* [Research Highlight](https://www.photonics.com/a56693/Fluorescence_Technique_Probes_Muscular_Dystrophy).
 
+## Book Chapter
+
+"Circulating tumor cells: high-throughput imaging of CTCs and bioinformatic analysis" in ***Liquid Biopsies: Searching for Cancer in the Blood***, D Haber and S Maheswaran, editors (Springer, 2016)<br/>
+K Keomanee-Dizon, SN Shishido, and P Kuhn
+
 ## Contributed Conference Publications
 
 Methods for quantifying heterogeneity in the fluid phase of patients with prostate cancer<br/>
