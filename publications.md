@@ -18,8 +18,8 @@ H Zhan, R Stanciauskas, C Stigloher, K Keomanee-Dizon, M Jospin, JL Bessereau, a
 
 ## Book Chapter
 
-Circulating tumor cells: high-throughput imaging of CTCs and bioinformatic analysis
-K Keomanee-Dizon, SN Shishido, and P Kuhn
+Circulating tumor cells: high-throughput imaging of CTCs and bioinformatic analysis<br/>
+K Keomanee-Dizon, SN Shishido, and P Kuhn<br/>
 ***Liquid Biopsies: Searching for Cancer in the Blood***, D Haber and S Maheswaran, editors (Springer, 2016)<br/>
 
 
