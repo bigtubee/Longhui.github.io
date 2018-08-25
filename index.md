@@ -6,7 +6,7 @@ order: 1
 
 # Kevin Keomanee-Dizon
 
-I am a PhD student at the University of Southern California (USC) [Translational Imaging Center](http://bioimaging.usc.edu), working with [Scott E. Fraser](http://bioimaging.usc.edu/sefraser.html) and [Thai V. Truong](https://www.researchgate.net/profile/Thai_Truong) at the interface between physics and biology.
+I am a PhD student at the University of Southern California (USC) [Translational Imaging Center](http://bioimaging.usc.edu), working with [Scott E. Fraser](http://bioimaging.usc.edu/sefraser.html) and [Thai V. Truong](https://www.researchgate.net/profile/Thai_Truong) in biophysics and optics.
 
 I received a BS from [Loyola Marymount University](http://lmu.edu/) in 2012, worked as a validation engineer at [Unbound Consulting](http://unbound-consulting.com/) from 2012-14, and earned a MS from [USC](http://usc.edu/) in 2015. I joined the USC Translational Imaging Center as a PhD student in 2016 and am funded by the [Alfred E. Mann Doctoral Fellowship](http://ami.usc.edu/outreach/).
 
