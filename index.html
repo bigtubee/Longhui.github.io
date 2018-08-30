@@ -104,6 +104,47 @@
   -->
 
   <!-- project begin -->
+  <tr onmouseout="portrait_stop()" onmouseover="portrait_start()">
+    <td width="25%">
+      <div class="one">
+        <!-- project symbol (before/after)-->
+        <div class="two" id='portrait_image'><img src='./public/squid-vibrio_after.png'></div> <!-- should be 160x160 -->
+        <img src='./public/squid-vibrio_before.png'> <!-- should be 160x160 -->
+      </div>
+      <script type="text/javascript">
+        function portrait_start() {
+          document.getElementById('portrait_image').style.opacity = "1";
+        }
+
+        function portrait_stop() {
+          document.getElementById('portrait_image').style.opacity = "0";
+        }
+        portrait_stop()
+      </script>
+    </td>
+    <td valign="top" width="75%">
+      <!-- title -->
+      <a href="https://www.biorxiv.org/content/early/2018/08/29/403303">
+      <papertitle>Light field-based selective volume illumination microscopy</papertitle></a><br>
+      <!-- authors -->
+      <a href="https://scholar.google.com/citations?user=iLGAA0MAAAAJ&hl=en">TV Truong</a>,
+      <a href="http://web.gps.caltech.edu/~gab/dan.html">DB Holland</a>,
+      <a href="https://www.linkedin.com/in/saramadaan">S Madaan</a>,
+      <a href="https://aandreev.net/">A Andreev</a>,
+      <a href="http://bioimaging.usc.edu/people.html">JV Troll</a>,
+      <a href="http://bioimaging.usc.edu/people.html">DES Koo</a>,
+      <strong>K Keomanee-Dizon</strong>,
+      <a href="http://www.glowingsquid.org/">M McFall-Ngai</a>,
+      <a href="http://bioimaging.usc.edu/sefraser.html">SE Fraser</a><br>
+      <!-- publication status and links -->
+      <em>bioRxiv</em><br>
+      <p></p>
+      <!-- project description -->
+      <p>We present selective volume illumination microscopy (SVIM), which combines the high synchronous volumetric acquisition rates (up to 100 Hz) of light-field microscopy and the high contrast associated with light-sheet microscopy.</p>
+    </td></tr>
+  <!-- project end -->
+
+    <!-- project begin -->
 	<tr><td width="25%"><div class="one">
 	<!-- project symbol -->
   <img src="./public/clusters.png"> <!-- should be 160x160 -->
@@ -115,7 +156,7 @@
   <!-- authors -->
   <a href="https://scholar.google.com/citations?user=VCf3KQoAAAAJ&hl=en">A Calrsson</a>,
   <a href="https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1057916">P Kuhn</a>,
-  M Luttgen,
+  <a href="https://kuhn.usc.edu/lab-alumni/">M Luttgen</a>,
 	<strong>K Keomanee-Dizon</strong>,
   <a href="https://faculty.mdanderson.org/profiles/patricia_troncoso.html">P Troncoso</a>,
   <a href="https://faculty.mdanderson.org/profiles/paul_corn.html">P Corn</a>,
